@@ -1,0 +1,69 @@
+
+scan-machine.png
+size: 660,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ACCEPT
+  rotate: false
+  xy: 489, 300
+  size: 101, 19
+  orig: 101, 19
+  offset: 0, 0
+  index: -1
+SCANNING...1
+  rotate: true
+  xy: 637, 504
+  size: 152, 19
+  orig: 152, 19
+  offset: 0, 0
+  index: -1
+SCANNING...2
+  rotate: true
+  xy: 637, 357
+  size: 145, 19
+  orig: 145, 19
+  offset: 0, 0
+  index: -1
+SCANNING...3
+  rotate: true
+  xy: 637, 218
+  size: 137, 19
+  orig: 137, 19
+  offset: 0, 0
+  index: -1
+cat
+  rotate: true
+  xy: 346, 321
+  size: 335, 289
+  orig: 335, 289
+  offset: 0, 0
+  index: -1
+light-1
+  rotate: false
+  xy: 592, 276
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+light-2
+  rotate: false
+  xy: 346, 237
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+machine-1
+  rotate: false
+  xy: 2, 234
+  size: 342, 422
+  orig: 342, 422
+  offset: 0, 0
+  index: -1
+machine-2
+  rotate: false
+  xy: 430, 281
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+R-2.png
+size: 980,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 439, 80
+  size: 255, 128
+  orig: 255, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 730, 215
+  size: 241, 357
+  orig: 241, 357
+  offset: 0, 0
+  index: -1
+end-2
+  rotate: false
+  xy: 399, 574
+  size: 435, 461
+  orig: 435, 461
+  offset: 0, 0
+  index: -1
+end-2a
+  rotate: false
+  xy: 2, 9
+  size: 435, 461
+  orig: 435, 461
+  offset: 0, 0
+  index: -1
+end-3
+  rotate: false
+  xy: 2, 472
+  size: 395, 563
+  orig: 395, 563
+  offset: 0, 0
+  index: -1
+end-5
+  rotate: false
+  xy: 439, 210
+  size: 289, 362
+  orig: 289, 362
+  offset: 0, 0
+  index: -1
+end-5a
+  rotate: false
+  xy: 696, 109
+  size: 76, 99
+  orig: 76, 99
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 774, 186
+  size: 101, 27
+  orig: 101, 27
+  offset: 0, 0
+  index: -1
+eye - Copy
+  rotate: false
+  xy: 774, 157
+  size: 101, 27
+  orig: 101, 27
+  offset: 0, 0
+  index: -1
+head-1
+  rotate: true
+  xy: 836, 736
+  size: 299, 141
+  orig: 299, 141
+  offset: 0, 0
+  index: -1
+head-2
+  rotate: false
+  xy: 439, 2
+  size: 236, 76
+  orig: 236, 76
+  offset: 0, 0
+  index: -1
+leg-1
+  rotate: false
+  xy: 836, 590
+  size: 86, 144
+  orig: 86, 144
+  offset: 0, 0
+  index: -1
+leg-2
+  rotate: true
+  xy: 924, 644
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1

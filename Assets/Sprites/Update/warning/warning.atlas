@@ -1,0 +1,27 @@
+
+warning.png
+size: 932,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 2
+  size: 621, 211
+  orig: 621, 211
+  offset: 0, 0
+  index: -1
+warning-close
+  rotate: false
+  xy: 804, 86
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+warning-open
+  rotate: false
+  xy: 625, 36
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
